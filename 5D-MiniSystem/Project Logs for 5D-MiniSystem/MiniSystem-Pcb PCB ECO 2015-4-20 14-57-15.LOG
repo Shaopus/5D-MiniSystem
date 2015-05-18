@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PB2 Pin=PB2-1
+Change Component Designator: OldDesignator=PB2 NewDesignator=BO
+Added Pin To Net: NetName=BOOT0 Pin=BO-1

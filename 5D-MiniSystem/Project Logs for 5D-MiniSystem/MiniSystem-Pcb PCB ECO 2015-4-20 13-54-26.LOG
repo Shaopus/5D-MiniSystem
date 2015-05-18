@@ -1,0 +1,3 @@
+Added Component: Designator=GND1(TP)
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component GND1 

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=PA0 Pin=U1-10
+Removed Pin From Net: NetName=PB2 Pin=U1-20
+Added Component: Designator=C13(C0603)
+Added Component: Designator=C14(C0603)
+Added Component: Designator=K1(SW-Mini)
+Added Component: Designator=K2(SW-Mini)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R11(R0603)
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=PB2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=PA0 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=PB2 Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=PA0 Pin=K2-2
+Added Pin To Net: NetName=PB2 Pin=R10-1
+Added Pin To Net: NetName=+3.3V Pin=R10-2
+Added Pin To Net: NetName=PA0 Pin=R11-1
+Added Pin To Net: NetName=+3.3V Pin=R11-2
+Added Pin To Net: NetName=PB2 Pin=U1-10
+Added Pin To Net: NetName=PA0 Pin=U1-20
+Change Net Name : Old Net Name=PA0 New Net Name=K2
+Change Net Name : Old Net Name=PB2 New Net Name=K1
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component C13 104
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component C14 104
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component K1 SW-PB
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component K2 SW-PB
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component R10 1K
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component R11 1K

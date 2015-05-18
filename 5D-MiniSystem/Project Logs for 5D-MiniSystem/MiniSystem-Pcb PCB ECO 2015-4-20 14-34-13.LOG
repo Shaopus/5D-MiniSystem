@@ -1,0 +1,48 @@
+Added Component: Designator=PA0(TP)
+Added Component: Designator=PA1(TP)
+Added Component: Designator=PA2(TP)
+Added Component: Designator=PA3(TP)
+Added Component: Designator=PA4(TP)
+Added Component: Designator=PA5(TP)
+Added Component: Designator=PA6(TP)
+Added Component: Designator=PA7(TP)
+Added Component: Designator=PA8(TP)
+Added Component: Designator=PA9(TP)
+Added Component: Designator=PA10(TP)
+Added Component: Designator=PA11(TP)
+Added Component: Designator=PA12(TP)
+Added Component: Designator=PA13(TP)
+Added Component: Designator=PA14(TP)
+Added Component: Designator=PA15(TP)
+Added Pin To Net: NetName=PA0 Pin=PA0-1
+Added Pin To Net: NetName=PA1 Pin=PA1-1
+Added Pin To Net: NetName=PA2 Pin=PA2-1
+Added Pin To Net: NetName=PA3 Pin=PA3-1
+Added Pin To Net: NetName=PA4 Pin=PA4-1
+Added Pin To Net: NetName=PA5 Pin=PA5-1
+Added Pin To Net: NetName=PA6 Pin=PA6-1
+Added Pin To Net: NetName=PA7 Pin=PA7-1
+Added Pin To Net: NetName=PA8 Pin=PA8-1
+Added Pin To Net: NetName=PA9 Pin=PA9-1
+Added Pin To Net: NetName=PA10 Pin=PA10-1
+Added Pin To Net: NetName=PA11 Pin=PA11-1
+Added Pin To Net: NetName=PA12 Pin=PA12-1
+Added Pin To Net: NetName=DIO Pin=PA13-1
+Added Pin To Net: NetName=CLK Pin=PA14-1
+Added Pin To Net: NetName=PA15 Pin=PA15-1
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA0 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA1 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA2 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA3 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA4 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA5 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA6 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA7 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA8 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA9 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA10 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA11 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA12 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA13 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA14 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PA15 

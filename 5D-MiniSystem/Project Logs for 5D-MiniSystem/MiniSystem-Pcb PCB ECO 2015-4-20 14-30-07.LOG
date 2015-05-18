@@ -1,0 +1,48 @@
+Added Component: Designator=PB0(TP)
+Added Component: Designator=PB1(TP)
+Added Component: Designator=PB2(TP)
+Added Component: Designator=PB3(TP)
+Added Component: Designator=PB4(TP)
+Added Component: Designator=PB5(TP)
+Added Component: Designator=PB6(TP)
+Added Component: Designator=PB7(TP)
+Added Component: Designator=PB8(TP)
+Added Component: Designator=PB9(TP)
+Added Component: Designator=PB10(TP)
+Added Component: Designator=PB11(TP)
+Added Component: Designator=PB12(TP)
+Added Component: Designator=PB13(TP)
+Added Component: Designator=PB14(TP)
+Added Component: Designator=PB15(TP)
+Added Pin To Net: NetName=PB0 Pin=PB0-1
+Added Pin To Net: NetName=PB1 Pin=PB1-1
+Added Pin To Net: NetName=PB2 Pin=PB2-1
+Added Pin To Net: NetName=PB3 Pin=PB3-1
+Added Pin To Net: NetName=PB4 Pin=PB4-1
+Added Pin To Net: NetName=PB5 Pin=PB5-1
+Added Pin To Net: NetName=PB6 Pin=PB6-1
+Added Pin To Net: NetName=PB7 Pin=PB7-1
+Added Pin To Net: NetName=PB8 Pin=PB8-1
+Added Pin To Net: NetName=PB9 Pin=PB9-1
+Added Pin To Net: NetName=PB10 Pin=PB10-1
+Added Pin To Net: NetName=PB11 Pin=PB11-1
+Added Pin To Net: NetName=PB12 Pin=PB12-1
+Added Pin To Net: NetName=PB13 Pin=PB13-1
+Added Pin To Net: NetName=PB14 Pin=PB14-1
+Added Pin To Net: NetName=PB15 Pin=PB15-1
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB0 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB1 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB2 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB3 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB4 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB5 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB6 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB7 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB8 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB9 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB10 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB11 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB12 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB13 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB14 
+Added Member To Class: ClassName=MiniSystem-Sch Member=Component PB15 

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA11 Pin=PA11-1
+Removed Pin From Net: NetName=PA12 Pin=PA12-1
+Removed Member From Class: ClassName=MiniSystem-Sch Member=PA11
+Removed Member From Class: ClassName=MiniSystem-Sch Member=PA12
